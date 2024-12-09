@@ -3,6 +3,10 @@ Some code I made for my linux workstation
 
 To compile:
 
+Download the current release on the right hand side of the main repository page
+
+Unzip the current release
+
 Copy code.zip and code.sh to your home folder. You can simply open a terminal where the file was downloaded and run:
         
         cp code.zip code.sh ~/
