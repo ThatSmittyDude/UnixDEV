@@ -1,5 +1,5 @@
 # LinuxDEV
-Some code I made for my linux workstation
+Some code I made for my Unix workstation
 
 To compile:
 
