@@ -1,6 +1,0 @@
-CH32V003          WCH Link USB Programmer
--------------------------------------------
-VDD ------------- 5V or 3V3
-GND ------------- GND
-PA1 (SWDIO) ----- DIO
-PA2 (SWCLK) ----- CLK
