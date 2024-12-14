@@ -1,0 +1,17 @@
+	ORG 8000
+LD BC, 100
+LD HL, 0xFF00
+LD (HL), 0xFF
+LD DE, 0x00
+
+START:
+	LD A, (HL)
+	OUT (0xFF), A
+	LD A, (DE)
+	OUT (0xF0), A
+	DEC BC
+	LD A, (HL)
+	CP 0
+	JP NZ, START
+END:
+END
