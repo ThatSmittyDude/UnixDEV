@@ -1,0 +1,31 @@
+---- ---- ---- ---- 
+PIDS for Unix installer
+---- ---- ---- ----
+bindump.c	PID 0
+octaldump.c	PID 1
+txt2bin.c	PID 2
+txt2hex.c	PID 3
+
+hex2string	PID 4
+8bit.cpp	PID 5
+bin2dec.cpp	PID 6
+dec2hex.cpp	PID 7
+
+hex2bin.cpp	PID 8
+hex2dec.cpp	PID 9
+ohms.cpp	PID 10
+watts.cpp	PID 11
+
+race_est.cpp	PID 12
+ticket.cpp	PID 13
+unix.cpp	PID 14
+kmph2mph.cpp	PID 15
+
+mph2kmph.cpp	PID 16
+c2f.cpp		PID 17
+f2c.cpp		PID 18
+fma.cpp		PID 19
+
+force.f90	PID 20
+calc.f90	PID 21
+
