@@ -1,6 +1,8 @@
 # LinuxDEV
 Some code I made for my Unix workstation
 
+Should work with most linux and BSD distros
+
 To compile:
 
 Download the current release on the right hand side of the main repository page
