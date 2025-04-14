@@ -1,4 +1,4 @@
-# LinuxDEV
+# UnixDEV
 Some code I made for my Unix workstation
 
 Should work with most linux and BSD distros
