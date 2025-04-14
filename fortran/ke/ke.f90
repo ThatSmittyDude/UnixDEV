@@ -1,0 +1,18 @@
+PROGRAM KE
+	IMPLICIT NONE
+	DOUBLE PRECISION :: MASS, VELOCITY, KINETIC
+
+	PRINT *, " "
+	PRINT *, "KE"
+	PRINT *, "---- ---- ---- ----"
+	PRINT *, "Mass: "
+	READ *, MASS
+	PRINT *, "Velocity: "
+	READ *, VELOCITY
+	PRINT *, " "
+
+	KINETIC = (MASS / 2) * (VELOCITY * VELOCITY)
+
+	PRINT *, "Kinetic energy: ", KINETIC
+
+END PROGRAM KE
