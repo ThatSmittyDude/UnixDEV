@@ -1,0 +1,17 @@
+//can.info
+
+//What needs to happen in this program?
+
+	//The device needs to measure the voltages on CAN_H and CAN_L
+		//This must be safe for the device and the network
+		//Check schematics for Highspeed CAN and iso standardizations
+		//Find appropriate resistors between CAN_H and CAN_L
+		//Find appropriate terminating resistors for the device 
+
+	//The software must be able to verify the voltage against expected values
+		//Find voltage specifications from the manufactuers and ISO/SAE
+	
+	//The software must be able to listen to the network
+	//The software must be able to verify packets off the network 
+	
+	
