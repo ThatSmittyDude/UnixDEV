@@ -22,3 +22,21 @@ Then run:
         ./code.sh
 
 Now you should be able to run any C++, C, and Fortran app from the command line
+
+If you have a disro like Fedora, Arch, FreeBSD or OpenBSD and you don't mind Fortran cimpilation failing
+
+For Fedora:
+
+        ./code-yum.sh
+
+For Arch:
+
+        ./code-arch.sh
+
+For FreeBSD:
+
+        ./code-bsd.sh
+
+For OpenBSD:
+
+        ./code-openbsd.sh
